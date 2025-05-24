@@ -1,0 +1,6 @@
+2025-05-25 00:00:11,551 - INFO - Patient ahmed added successfully!
+2025-05-25 00:06:13,924 - INFO - Patient suleman added successfully!
+2025-05-25 00:21:39,914 - ERROR - [91m[Gender Error][0m Invalid gender entered: 'h'. Allowed values: Male, Female, Other.
+2025-05-25 00:36:46,530 - ERROR - [91m[Gender Error][0m Invalid gender entered: 'f'. Allowed values: Male, Female, Other.
+2025-05-25 00:36:48,732 - ERROR - [91m[Gender Error][0m Invalid gender entered: 'f'. Allowed values: Male, Female, Other.
+2025-05-25 00:36:58,585 - INFO - Patient hasnain added successfully!

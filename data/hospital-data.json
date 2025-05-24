@@ -1,0 +1,41 @@
+{
+    "patients": [
+        {
+            "name": "suleman",
+            "age": 20,
+            "gender": "male",
+            "id": 11,
+            "disease": "feaver"
+        },
+        {
+            "name": "suleman",
+            "age": 20,
+            "gender": "male",
+            "id": 12,
+            "disease": "feaver"
+        },
+        {
+            "name": "hasnain",
+            "age": 23,
+            "gender": "male",
+            "id": 14,
+            "disease": "heart"
+        }
+    ],
+    "doctors": [
+        {
+            "name": "muhammad suleman",
+            "age": 26,
+            "gender": "male",
+            "id": 21,
+            "specialization": "heart"
+        }
+    ],
+    "appointments": [
+        {
+            "date": "2024-1-20",
+            "patient_id": 11,
+            "doctor_id": 21
+        }
+    ]
+}
